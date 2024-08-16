@@ -132,7 +132,7 @@ ls /dev/serial/by-id
 # See docs/Config_Reference.md for a description of parameters.
 
 [mcu]
-serial: /dev/serial/by-id/usb-Klipper_stm32h723xx_18001C001651313238353730-if00
+#serial: /dev/serial/by-id/usb-Klipper_stm32h723xx_18001C001651313238353730-if00
 #serial: /dev/serial/by-path/platform-fd500000.pcie-pci-0000:01:00.0-usb-0:1.1:1.0
 #serial: /dev/ttyAMA0
 #restart_method: command
